@@ -6,7 +6,6 @@ function Accordion(props: any) {
         <div>
             <AccordionTitle title = {props.title}/>
             <AccordionBody />
-            <AccordionBody />
         </div>
     );
 
